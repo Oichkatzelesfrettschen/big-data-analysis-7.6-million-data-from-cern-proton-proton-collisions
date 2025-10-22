@@ -27,7 +27,7 @@ This represents a significant improvement over initial selection methods, reduci
 
 The analysis is structured in a clear pipeline within the `Codes` directory:
 
-1. **Data Selection & Filtering:** Applied selection criteria to 7.6M collision events
+1. **Data Selection & Filtering:** Applied the following selection criteria to 7.6M collision events
    - Opposite charge muons for Z boson analysis
    - Transverse momentum cuts: $39,990 \text{MeV}/c < p_T < 560,000  \text{MeV}/c$
    - Pseudorapidity range: $0.2 < |η| < 2.20$
