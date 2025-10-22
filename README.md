@@ -51,6 +51,18 @@ The analysis is structured in a clear pipeline within the `Codes` directory:
 
 *Figure 4: Invariant mass distribution of muon pairs fitted with Cauchy distribution*
 
+## 📄 Project Report
+
+A detailed technical report documenting the full methodology, theoretical background, and discussion is available here:  
+[**Rediscovering the Higgs Boson Report**](https://github.com/ValenLebepe/big-data-analysis-7.6-million-data-from-cern-proton-proton-collisions/blob/main/Reports/Report.pdf)
+
+**Report Highlights:**
+- Comprehensive theoretical background on particle physics and proton-proton collisions
+- Detailed experimental methodology and apparatus description
+- Complete error analysis and uncertainty discussion
+- Comparison with accepted literature values
+
+
 ## 📁 Repository Structure
 
 A high-level overview of the project organization:
@@ -73,6 +85,10 @@ big-data-analysis-7.6-million-cern-collisions/
 │    - Momentum and pseudorapidity distributions
 │    - χ² analysis results
 │
+├── Reports/
+│   └── Project documentation and technical report
+│       - Report.pdf
+|
 └── README.md
 ```
 
@@ -122,9 +138,11 @@ The code includes detailed explanations of:
 - Cauchy distribution fitting and χ² minimization
 - Uncertainty propagation and result visualization
 
-## 🔬 Note on Academic Integrity
+## 📄 License
 
-This repository contains the **code and data** for the project. The formal lab report, which contains the detailed theoretical background and full discussion, is not yet published here to uphold my academic institution's integrity policies. The code and results presented here demonstrate the technical implementation and data analysis skills developed in this project.
+**Report:** Copyright © 2025 [Valen Lebepe]. All rights reserved.
+This report is provided for viewing purposes only. Redistribution, copying, 
+or commercial use is prohibited without explicit permission.
 
 ## 👤 Author
 
